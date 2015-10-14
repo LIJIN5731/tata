@@ -9,5 +9,3 @@ hello world
 pull request
 
 再pull一下
-
-22222sss
